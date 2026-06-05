@@ -157,7 +157,7 @@ During visualization, keyboard shortcuts trigger filters:
 - `pygame`
 - `tkinter` (typically bundled with standard Python installs)
 
-### Install dependency
+### Install dependencies
 ```bash
 pip install pygame
 ```
